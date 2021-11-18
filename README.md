@@ -9,6 +9,7 @@
     - 도커와 도커 컴포즈를 활용한 클라우드 환경의 서비스 배포 및 운영 환경 구축
 
 ## 서비스 아키텍처 구성도
+![서비스구조도 drawio](https://user-images.githubusercontent.com/32921225/142336641-ddaaec33-abf1-49f1-b5a2-b3603da1e080.png)
 
 ## 팀
 * **팀명**: One More Things
